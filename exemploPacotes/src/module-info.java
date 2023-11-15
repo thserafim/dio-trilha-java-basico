@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author thiag
- *
- */
-module exemploPacotes {
-}
