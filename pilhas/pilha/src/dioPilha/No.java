@@ -2,6 +2,7 @@ package dioPilha;
 
 public class No {
 	
+	public static final String get = null;
 	private int dado;
 	private No refNo = null;
 	
