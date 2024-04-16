@@ -1,0 +1,18 @@
+TREESET -->
+
+TreeSet é uma classe em Java que implementa a interface Set e estende a classe AbstractSet. 
+A principal característica do TreeSet é que ele armazena elementos em ordem ascendente,
+com base na ordem natural dos elementos ou em uma ordem especificada por um comparador durante a criação do conjunto.
+
+Principais características e funções do TreeSet:
+
+Ordenação: Os elementos são automaticamente ordenados em ordem ascendente. 
+Isso é útil quando você precisa de uma coleção ordenada de elementos.
+
+Sem duplicatas: Como o TreeSet é uma implementação da interface Set, ele não permite elementos duplicados. 
+Se você tentar adicionar um elemento já presente, a operação não terá efeito.
+
+Tempo de busca eficiente: A estrutura de árvore permite um tempo de busca eficiente, 
+tornando as operações de busca, inserção e remoção eficientes em comparação com algumas outras estruturas de dados.
+
+Comparação personalizada: Você pode fornecer um Comparator durante a criação do TreeSet para definir uma ordem personalizada para os elementos.
